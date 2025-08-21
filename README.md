@@ -30,7 +30,8 @@ Although this project was inspired by a [guided walkthrough](https://www.youtube
 
 ### Files
 
-- `layoffs.csv`: Original dataset
-- `data_cleaning_layoffs.sql`: All data cleaning steps
-- `eda_layoffs.sql`: Exploratory data analysis queries
+- [Layoffs Data Cleaning SQL](Data%20Cleaning/Data%20Cleaning%20World%20Layoffs.sql)  
+- [Layoffs Exploratory SQL](Exploratory%20Data%20Analysis/MySQL%20Exploratory%20Data%20Analysis%20Project.sql)  
+- [Layoffs Dataset (CSV)](Layoffs%20Dataset/layoffs.csv)
+
 
