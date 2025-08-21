@@ -1,4 +1,4 @@
-## 🧹 Layoff Data Cleaning & Exploratory SQL Analysis
+## Layoff Data Cleaning & Exploratory SQL Analysis
 
 This project focuses on cleaning, standardizing, and analyzing a layoffs dataset sourced from [Kaggle](https://www.kaggle.com/datasets/salimwid/layoffs-2022). Using MySQL, I performed data wrangling and exploration on tech industry layoffs to identify trends in job cuts, funding, and company stages over time.
 
